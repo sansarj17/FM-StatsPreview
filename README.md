@@ -18,7 +18,7 @@ Desktop View
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-component-hXg-CjnI7)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/stats-preview-card-using-css-grid-sEnjVngu1)
 - Live Site URL: [Live Site](https://sansarj17.github.io/FM-StatsPreview/)
 
 ### Built with
