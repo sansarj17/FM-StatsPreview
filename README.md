@@ -19,7 +19,7 @@ Desktop View
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-component-hXg-CjnI7)
-- Live Site URL: [Live Site](https://sansarj17.github.io/FM-NFT-preview/)
+- Live Site URL: [Live Site](https://sansarj17.github.io/FM-StatsPreview/)
 
 ### Built with
 
